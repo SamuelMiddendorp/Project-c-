@@ -1,0 +1,11 @@
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\bin\Debug\netcoreapp2.0\TheRichLifeTestProject.deps.json
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\bin\Debug\netcoreapp2.0\TheRichLifeTestProject.runtimeconfig.json
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\bin\Debug\netcoreapp2.0\TheRichLifeTestProject.runtimeconfig.dev.json
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\bin\Debug\netcoreapp2.0\TheRichLifeTestProject.dll
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\bin\Debug\netcoreapp2.0\TheRichLifeTestProject.pdb
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\obj\Debug\netcoreapp2.0\TheRichLifeTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\obj\Debug\netcoreapp2.0\TheRichLifeTestProject.AssemblyInfoInputs.cache
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\obj\Debug\netcoreapp2.0\TheRichLifeTestProject.AssemblyInfo.cs
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\obj\Debug\netcoreapp2.0\TheRichLifeTestProject.dll
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\obj\Debug\netcoreapp2.0\TheRichLifeTestProject.pdb
+C:\Users\Samuel\source\repos\TheRichLifeTestProject\TheRichLifeTestProject\obj\Debug\netcoreapp2.0\TheRichLifeTestProject.csprojAssemblyReference.cache

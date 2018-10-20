@@ -1,0 +1,36 @@
+﻿
+@{
+	ViewData["Title"] = "Details";
+
+}
+@using System.Reflection
+<p style="float: left">
+
+	@foreach (var item in Model.Animal.GetType().GetProperties())
+	{
+		if (item.Name == "ImageSrc")
+		{
+		<img style="float: right" src="~/images/@item.GetValue(Model.Animal)" />
+		}
+		if (item.Name == "Reviews")
+		{
+
+		}
+		else
+		{
+			<h3><b>@item.Name</b> : @item.GetValue(Model.Animal)</h3>
+		}
+	}
+			<h3><b>Reviews: </b></h3>
+	@foreach (var item in Model.Reviews)
+	{
+
+		@item.Body
+		<hr/>
+	}
+	<br />
+	@Html.ActionLink("Terug naar producten", "Products", "Home")
+</p>
+
+
+

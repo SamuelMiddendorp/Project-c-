@@ -1,0 +1,28 @@
+﻿
+@{
+	ViewData["Title"] = "Products";
+}
+
+<h2>Products</h2>
+</br>
+</br>
+Search for product name or species
+</br>
+</br>
+@using (Html.BeginForm())
+{
+	<p>
+		Product: @Html.TextBox("SearchString")
+		<input type="submit" value="Zoeken" />
+	</p>
+}
+	</br>
+<p>
+	@foreach (var item in Model)
+	{
+	<p>Name: @item.Name | Age: @item.Age | @Html.ActionLink((string)item.Name, "Detail", "Home", new { id = item.Id, category = item.Category })</p>
+	<hr />
+}
+
+	</p>
+
